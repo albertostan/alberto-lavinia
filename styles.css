@@ -93,6 +93,7 @@ card:hover {
 
 .book:hover .page1 {
   transform: rotateY(-180deg);
+  transform: scale(1.1);
 }
 
 .book:hover .page2 {
@@ -104,7 +105,8 @@ card:hover {
   background-size: cover;
 }
 @media only screen and (max-width: 600px) {
-  #card {
+  .page {
       height: auto;
+      width: auto;
   }
 }
