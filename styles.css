@@ -104,9 +104,8 @@ card:hover {
   background-image: url(./images/IMG-20231224-WA0003.jpg);
   background-size: cover;
 }
-@media only screen and (max-width: 600px) {
-  .first-pag {
+@media only screen and (max-width: 768px) {
+  .pag {
       height: auto;
-      width: auto;
   }
 }
