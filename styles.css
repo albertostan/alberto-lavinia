@@ -102,7 +102,7 @@ card:hover {
   background-image: url(./images/IMG-20231224-WA0003.jpg);
   background-size: cover;
 }
-@media (max-width: 600px) {
+@media screen and (max-width: 600px) {
   .pag {
       display: grid;
       grid-template-columns: auto;
