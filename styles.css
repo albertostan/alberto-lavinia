@@ -102,13 +102,17 @@ card:hover {
   background-image: url(./images/IMG-20231224-WA0003.jpg);
   background-size: cover;
 }
-@media screen and (max-width: 600px) {
-  .pag {
-      display: grid;
-      grid-template-columns: auto;
+@media (max-width: 600px) {
+  .first-pag {
+    position: absolute;
   }
   .book {
-    height: auto;
-    width: auto;
+    position: relative;
+  }
+  .second-pag {
+    position: absolute;
+  }
+  #story {
+    position: relative;
   }
 }
