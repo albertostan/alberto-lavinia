@@ -117,11 +117,11 @@ card:hover {
 }
 #card {
   position: absolute;
-  top: 40px;
-  left: 5%;
+  top: 45px;
+  left: 8%;
   background-color: #d33dcb2f;
   height: 330px;
-  width: 320px;
+  width: 340px;
   text-align: center;
   font-family: "Cinzel Decorative", sans-serif;
   border-radius: 25px;
