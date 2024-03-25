@@ -117,8 +117,8 @@ card:hover {
 }
 #card {
   position: absolute;
-  top: 45px;
-  left: 8%;
+  top: 60px;
+  left: 10%;
   background-color: #d33dcb2f;
   height: 330px;
   width: 340px;
