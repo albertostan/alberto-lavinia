@@ -49,16 +49,6 @@ card:hover {
 .second-pag {
   position: relative;
 }
-#story {
-  text-align: center;
-  height: 300px;
-  width: 100%;
-  position: absolute;
-  top: 550px;
-  background-color: #d33dcb2f;
-  font-family: "Cinzel Decorative", sans-serif;
-  box-shadow: 7px 7px 10px rgba(0, 0, 0, 0.5);
-}
 
 #cronometru {
   font-size: 30px;
