@@ -103,7 +103,7 @@ card:hover {
   background-size: cover;
 }
 
-@media screen (max-width: 600px) {
+@media (max-width: 600px) {
   #titlu {
   text-align: center;
   font-size: 20px;
