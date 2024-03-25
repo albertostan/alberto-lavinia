@@ -103,7 +103,7 @@ card:hover {
   background-size: cover;
 }
 
-@media screen and (max-width: 600px) {
+@media (max-width: 600px) {
   #titlu {
   text-align: center;
   font-size: 20px;
@@ -114,14 +114,13 @@ card:hover {
   font-family: "Cinzel Decorative", sans-serif;
   text-transform: uppercase;
   box-shadow: 0 0 10px #ff00cc;
-  width: 100%;
 }
 #card {
   position: absolute;
-  top: 25px;
-  left: 1%;
+  top: 40px;
+  left: 5%;
   background-color: #d33dcb2f;
-  height: 310px;
+  height: 330px;
   width: 320px;
   text-align: center;
   font-family: "Cinzel Decorative", sans-serif;
