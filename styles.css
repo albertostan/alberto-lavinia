@@ -119,10 +119,10 @@ card:hover {
 #card {
   position: absolute;
   top: 10px;
-  left: 10%;
+  left: 7%;
   background-color: #d33dcb2f;
-  height: 370px;
-  width: 400px;
+  height: 340px;
+  width: 370px;
   text-align: center;
   font-family: "Cinzel Decorative", sans-serif;
   border-radius: 25px;
@@ -139,5 +139,15 @@ card:hover {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   color: #8b6e0f;
   font-size: x-large;
+}
+#story {
+  text-align: center;
+  height: 300px;
+  width: 100%;
+  position: absolute;
+  top: 560px;
+  background-color: #d33dcb2f;
+  font-family: "Cinzel Decorative", sans-serif;
+  box-shadow: 7px 7px 10px rgba(0, 0, 0, 0.5);
 }
 }
