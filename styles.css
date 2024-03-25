@@ -119,7 +119,7 @@ card:hover {
 #card {
   position: absolute;
   top: 25px;
-  left: 2%;
+  left: 1%;
   background-color: #d33dcb2f;
   height: 310px;
   width: 320px;
